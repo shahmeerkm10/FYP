@@ -1,5 +1,6 @@
 # FYP
-Our AI based credit scoring system Final Year Project
+Our AI based credit scoring system Final Year Project under the guidance of Miss Tasbiha Fatima, a lecturer at IBA Karachi
+
 - All involved members are credited in every document at the very start
 
 A brief description:
